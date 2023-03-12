@@ -15,7 +15,7 @@ const data = [
 ];
 
  const options = {
-  title: "My Daily Activities",
+  title: "Kate's Daily Activities",
 };
 
  function App() {
